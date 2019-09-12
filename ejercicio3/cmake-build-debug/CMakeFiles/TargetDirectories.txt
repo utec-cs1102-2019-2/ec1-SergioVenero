@@ -1,0 +1,3 @@
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/ejercicio3/cmake-build-debug/CMakeFiles/ejercicio3.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/ejercicio3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/ejercicio3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
