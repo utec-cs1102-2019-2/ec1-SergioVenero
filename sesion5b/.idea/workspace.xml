@@ -15,9 +15,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a3df781-5880-4baa-8ec5-3903e645cbfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../sesion6a/ejercicio2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sesion6a/ejercicio3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/.idea/sesion6b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sesion6b/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -72,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ejercicio3.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -94,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
@@ -178,7 +182,7 @@
       <updated>1568903175034</updated>
       <workItem from="1568903177778" duration="4665000" />
       <workItem from="1569441926049" duration="585000" />
-      <workItem from="1569442537179" duration="1408000" />
+      <workItem from="1569442537179" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="fin de clase">
       <created>1568907757496</created>
@@ -187,14 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568907757496</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="s4">
+      <created>1569452846656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569452846658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6658000" />
+    <option name="totallyTimeSpent" value="8029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
@@ -224,7 +235,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fin de clase" />
-    <option name="LAST_COMMIT_MESSAGE" value="fin de clase" />
+    <MESSAGE value="s4" />
+    <option name="LAST_COMMIT_MESSAGE" value="s4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
@@ -257,8 +269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio3.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
