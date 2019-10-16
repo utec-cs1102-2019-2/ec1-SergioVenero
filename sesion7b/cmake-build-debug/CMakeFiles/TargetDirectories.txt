@@ -1,0 +1,5 @@
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion7b/cmake-build-debug/CMakeFiles/sesion7b2.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion7b/cmake-build-debug/CMakeFiles/sesion7b.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion7b/cmake-build-debug/CMakeFiles/sesion7b3.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion7b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion7b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

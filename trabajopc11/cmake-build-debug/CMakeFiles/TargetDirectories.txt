@@ -1,0 +1,3 @@
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/trabajopc11/cmake-build-debug/CMakeFiles/trabajopc11.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/trabajopc11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/trabajopc11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

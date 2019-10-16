@@ -1,0 +1,6 @@
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion5b/cmake-build-debug/CMakeFiles/sesion5b_e2.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion5b/cmake-build-debug/CMakeFiles/sesion5b.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion5b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion5b/cmake-build-debug/CMakeFiles/sesion5b_el.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion5b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/sesion5b/cmake-build-debug/CMakeFiles/sesion5b_e3.dir
