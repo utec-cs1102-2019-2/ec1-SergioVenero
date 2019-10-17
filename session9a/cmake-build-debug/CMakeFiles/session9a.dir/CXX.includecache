@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session9a/main.cpp
+iostream
+-
+triangulo.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session9a/triangulo.h
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session9a/triangulo.h
+
