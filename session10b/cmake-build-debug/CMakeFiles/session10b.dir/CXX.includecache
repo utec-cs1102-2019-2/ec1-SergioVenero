@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Alumno.cpp
+Alumno.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Alumno.h
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Alumno.h
+Persona.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Persona.h
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Persona.h
+iostream
+-
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/main.cpp
+iostream
+-
+Persona.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Persona.h
+Alumno.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Alumno.h
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/persona.cpp
+Persona.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session10b/Persona.h
+iostream
+-
+

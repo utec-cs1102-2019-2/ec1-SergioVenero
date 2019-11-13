@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session12b/Gato.cpp
+Gato.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session12b/Gato.h
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session12b/Gato.h
+Mascota.h
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session12b/Mascota.h
+
+C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session12b/Mascota.h
+iostream
+-
+
