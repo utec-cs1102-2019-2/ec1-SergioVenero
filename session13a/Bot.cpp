@@ -1,5 +1,9 @@
-//
-// Created by Sergio on 11/13/2019.
-//
-
 #include "Bot.h"
+
+Bot::Bot(int numero, string nombre) : Jugador(numero, nombre) {
+    cout<<"Creando un bot"<<endl;
+}
+
+void Bot::marcar() {
+    cout<<"Turno del computador"<<endl;
+}

@@ -12,18 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2372c493-353e-481c-b642-511ef62f4e93" name="Default Changelist" comment="s12">
-      <change afterPath="$PROJECT_DIR$/../session12b/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/Gato.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/Gato.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/Mascota.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/Mascota.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/Perro.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/Perro.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../session12b/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Bot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Bot.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Cuadrado.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Cuadrado.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Humano.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Humano.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Juego.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Juego.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Juego.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Juego.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Tablero.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Tablero.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/Tablero.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Tablero.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -65,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Vehiculo.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -135,19 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/session12a.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/../session12b/.idea/session12b.iml" />
-        <option value="$PROJECT_DIR$/../session13a/.idea/session13a.iml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
@@ -173,6 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -207,15 +196,15 @@
       <option name="presentableId" value="Default" />
       <updated>1573138303989</updated>
       <workItem from="1573138306473" duration="1690000" />
-      <workItem from="1573676377749" duration="1321000" />
+      <workItem from="1573676377749" duration="2251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3011000" />
+    <option name="totallyTimeSpent" value="3941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
@@ -285,6 +274,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Vehiculo.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -296,13 +292,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
