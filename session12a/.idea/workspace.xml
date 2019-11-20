@@ -13,17 +13,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2372c493-353e-481c-b642-511ef62f4e93" name="Default Changelist" comment="s12">
       <change beforePath="$PROJECT_DIR$/../session13a/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Bot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Bot.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Bot.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Cuadrado.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Cuadrado.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Humano.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Humano.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Humano.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Juego.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Juego.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Juego.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Juego.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Tablero.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Tablero.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/Tablero.h" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/Tablero.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session13a/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/CMakeFiles/session13a.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session13a/cmake-build-debug/session13a.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../session13a/cmake-build-debug/session13a.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,7 +205,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -213,7 +212,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

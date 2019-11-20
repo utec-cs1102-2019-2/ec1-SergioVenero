@@ -69,19 +69,109 @@ CMakeFiles/session13a.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\main.cpp -o CMakeFiles\session13a.dir\main.cpp.s
 
+CMakeFiles/session13a.dir/Cuadrado.cpp.obj: CMakeFiles/session13a.dir/flags.make
+CMakeFiles/session13a.dir/Cuadrado.cpp.obj: ../Cuadrado.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session13a.dir/Cuadrado.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session13a.dir\Cuadrado.cpp.obj -c C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Cuadrado.cpp
+
+CMakeFiles/session13a.dir/Cuadrado.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session13a.dir/Cuadrado.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Cuadrado.cpp > CMakeFiles\session13a.dir\Cuadrado.cpp.i
+
+CMakeFiles/session13a.dir/Cuadrado.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/Cuadrado.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Cuadrado.cpp -o CMakeFiles\session13a.dir\Cuadrado.cpp.s
+
+CMakeFiles/session13a.dir/Tablero.cpp.obj: CMakeFiles/session13a.dir/flags.make
+CMakeFiles/session13a.dir/Tablero.cpp.obj: ../Tablero.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session13a.dir/Tablero.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session13a.dir\Tablero.cpp.obj -c C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Tablero.cpp
+
+CMakeFiles/session13a.dir/Tablero.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session13a.dir/Tablero.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Tablero.cpp > CMakeFiles\session13a.dir\Tablero.cpp.i
+
+CMakeFiles/session13a.dir/Tablero.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/Tablero.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Tablero.cpp -o CMakeFiles\session13a.dir\Tablero.cpp.s
+
+CMakeFiles/session13a.dir/Jugador.cpp.obj: CMakeFiles/session13a.dir/flags.make
+CMakeFiles/session13a.dir/Jugador.cpp.obj: ../Jugador.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/session13a.dir/Jugador.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session13a.dir\Jugador.cpp.obj -c C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Jugador.cpp
+
+CMakeFiles/session13a.dir/Jugador.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session13a.dir/Jugador.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Jugador.cpp > CMakeFiles\session13a.dir\Jugador.cpp.i
+
+CMakeFiles/session13a.dir/Jugador.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/Jugador.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Jugador.cpp -o CMakeFiles\session13a.dir\Jugador.cpp.s
+
+CMakeFiles/session13a.dir/Bot.cpp.obj: CMakeFiles/session13a.dir/flags.make
+CMakeFiles/session13a.dir/Bot.cpp.obj: ../Bot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/session13a.dir/Bot.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session13a.dir\Bot.cpp.obj -c C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Bot.cpp
+
+CMakeFiles/session13a.dir/Bot.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session13a.dir/Bot.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Bot.cpp > CMakeFiles\session13a.dir\Bot.cpp.i
+
+CMakeFiles/session13a.dir/Bot.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/Bot.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Bot.cpp -o CMakeFiles\session13a.dir\Bot.cpp.s
+
+CMakeFiles/session13a.dir/Humano.cpp.obj: CMakeFiles/session13a.dir/flags.make
+CMakeFiles/session13a.dir/Humano.cpp.obj: ../Humano.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/session13a.dir/Humano.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session13a.dir\Humano.cpp.obj -c C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Humano.cpp
+
+CMakeFiles/session13a.dir/Humano.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session13a.dir/Humano.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Humano.cpp > CMakeFiles\session13a.dir\Humano.cpp.i
+
+CMakeFiles/session13a.dir/Humano.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/Humano.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Humano.cpp -o CMakeFiles\session13a.dir\Humano.cpp.s
+
+CMakeFiles/session13a.dir/Juego.cpp.obj: CMakeFiles/session13a.dir/flags.make
+CMakeFiles/session13a.dir/Juego.cpp.obj: ../Juego.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/session13a.dir/Juego.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session13a.dir\Juego.cpp.obj -c C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Juego.cpp
+
+CMakeFiles/session13a.dir/Juego.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session13a.dir/Juego.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Juego.cpp > CMakeFiles\session13a.dir\Juego.cpp.i
+
+CMakeFiles/session13a.dir/Juego.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session13a.dir/Juego.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\Juego.cpp -o CMakeFiles\session13a.dir\Juego.cpp.s
+
 # Object files for target session13a
 session13a_OBJECTS = \
-"CMakeFiles/session13a.dir/main.cpp.obj"
+"CMakeFiles/session13a.dir/main.cpp.obj" \
+"CMakeFiles/session13a.dir/Cuadrado.cpp.obj" \
+"CMakeFiles/session13a.dir/Tablero.cpp.obj" \
+"CMakeFiles/session13a.dir/Jugador.cpp.obj" \
+"CMakeFiles/session13a.dir/Bot.cpp.obj" \
+"CMakeFiles/session13a.dir/Humano.cpp.obj" \
+"CMakeFiles/session13a.dir/Juego.cpp.obj"
 
 # External object files for target session13a
 session13a_EXTERNAL_OBJECTS =
 
 session13a.exe: CMakeFiles/session13a.dir/main.cpp.obj
+session13a.exe: CMakeFiles/session13a.dir/Cuadrado.cpp.obj
+session13a.exe: CMakeFiles/session13a.dir/Tablero.cpp.obj
+session13a.exe: CMakeFiles/session13a.dir/Jugador.cpp.obj
+session13a.exe: CMakeFiles/session13a.dir/Bot.cpp.obj
+session13a.exe: CMakeFiles/session13a.dir/Humano.cpp.obj
+session13a.exe: CMakeFiles/session13a.dir/Juego.cpp.obj
 session13a.exe: CMakeFiles/session13a.dir/build.make
 session13a.exe: CMakeFiles/session13a.dir/linklibs.rsp
 session13a.exe: CMakeFiles/session13a.dir/objects1.rsp
 session13a.exe: CMakeFiles/session13a.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable session13a.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable session13a.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\session13a.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

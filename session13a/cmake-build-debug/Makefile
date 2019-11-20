@@ -122,6 +122,168 @@ session13a/fast:
 	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/build
 .PHONY : session13a/fast
 
+Bot.obj: Bot.cpp.obj
+
+.PHONY : Bot.obj
+
+# target to build an object file
+Bot.cpp.obj:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Bot.cpp.obj
+.PHONY : Bot.cpp.obj
+
+Bot.i: Bot.cpp.i
+
+.PHONY : Bot.i
+
+# target to preprocess a source file
+Bot.cpp.i:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Bot.cpp.i
+.PHONY : Bot.cpp.i
+
+Bot.s: Bot.cpp.s
+
+.PHONY : Bot.s
+
+# target to generate assembly for a file
+Bot.cpp.s:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Bot.cpp.s
+.PHONY : Bot.cpp.s
+
+Cuadrado.obj: Cuadrado.cpp.obj
+
+.PHONY : Cuadrado.obj
+
+# target to build an object file
+Cuadrado.cpp.obj:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Cuadrado.cpp.obj
+.PHONY : Cuadrado.cpp.obj
+
+Cuadrado.i: Cuadrado.cpp.i
+
+.PHONY : Cuadrado.i
+
+# target to preprocess a source file
+Cuadrado.cpp.i:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Cuadrado.cpp.i
+.PHONY : Cuadrado.cpp.i
+
+Cuadrado.s: Cuadrado.cpp.s
+
+.PHONY : Cuadrado.s
+
+# target to generate assembly for a file
+Cuadrado.cpp.s:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Cuadrado.cpp.s
+.PHONY : Cuadrado.cpp.s
+
+Humano.obj: Humano.cpp.obj
+
+.PHONY : Humano.obj
+
+# target to build an object file
+Humano.cpp.obj:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Humano.cpp.obj
+.PHONY : Humano.cpp.obj
+
+Humano.i: Humano.cpp.i
+
+.PHONY : Humano.i
+
+# target to preprocess a source file
+Humano.cpp.i:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Humano.cpp.i
+.PHONY : Humano.cpp.i
+
+Humano.s: Humano.cpp.s
+
+.PHONY : Humano.s
+
+# target to generate assembly for a file
+Humano.cpp.s:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Humano.cpp.s
+.PHONY : Humano.cpp.s
+
+Juego.obj: Juego.cpp.obj
+
+.PHONY : Juego.obj
+
+# target to build an object file
+Juego.cpp.obj:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Juego.cpp.obj
+.PHONY : Juego.cpp.obj
+
+Juego.i: Juego.cpp.i
+
+.PHONY : Juego.i
+
+# target to preprocess a source file
+Juego.cpp.i:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Juego.cpp.i
+.PHONY : Juego.cpp.i
+
+Juego.s: Juego.cpp.s
+
+.PHONY : Juego.s
+
+# target to generate assembly for a file
+Juego.cpp.s:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Juego.cpp.s
+.PHONY : Juego.cpp.s
+
+Jugador.obj: Jugador.cpp.obj
+
+.PHONY : Jugador.obj
+
+# target to build an object file
+Jugador.cpp.obj:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Jugador.cpp.obj
+.PHONY : Jugador.cpp.obj
+
+Jugador.i: Jugador.cpp.i
+
+.PHONY : Jugador.i
+
+# target to preprocess a source file
+Jugador.cpp.i:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Jugador.cpp.i
+.PHONY : Jugador.cpp.i
+
+Jugador.s: Jugador.cpp.s
+
+.PHONY : Jugador.s
+
+# target to generate assembly for a file
+Jugador.cpp.s:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Jugador.cpp.s
+.PHONY : Jugador.cpp.s
+
+Tablero.obj: Tablero.cpp.obj
+
+.PHONY : Tablero.obj
+
+# target to build an object file
+Tablero.cpp.obj:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Tablero.cpp.obj
+.PHONY : Tablero.cpp.obj
+
+Tablero.i: Tablero.cpp.i
+
+.PHONY : Tablero.i
+
+# target to preprocess a source file
+Tablero.cpp.i:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Tablero.cpp.i
+.PHONY : Tablero.cpp.i
+
+Tablero.s: Tablero.cpp.s
+
+.PHONY : Tablero.s
+
+# target to generate assembly for a file
+Tablero.cpp.s:
+	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/Tablero.cpp.s
+.PHONY : Tablero.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +320,24 @@ help:
 	@echo ... session13a
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Bot.obj
+	@echo ... Bot.i
+	@echo ... Bot.s
+	@echo ... Cuadrado.obj
+	@echo ... Cuadrado.i
+	@echo ... Cuadrado.s
+	@echo ... Humano.obj
+	@echo ... Humano.i
+	@echo ... Humano.s
+	@echo ... Juego.obj
+	@echo ... Juego.i
+	@echo ... Juego.s
+	@echo ... Jugador.obj
+	@echo ... Jugador.i
+	@echo ... Jugador.s
+	@echo ... Tablero.obj
+	@echo ... Tablero.i
+	@echo ... Tablero.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

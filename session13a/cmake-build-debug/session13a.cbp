@@ -80,6 +80,42 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Bot.cpp">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Bot.h">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Cuadrado.cpp">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Cuadrado.h">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Humano.cpp">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Humano.h">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Juego.cpp">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Juego.h">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Jugador.cpp">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Jugador.h">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Tablero.cpp">
+			<Option target="session13a"/>
+		</Unit>
+		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/Tablero.h">
+			<Option target="session13a"/>
+		</Unit>
 		<Unit filename="C:/Users/Sergio/Desktop/poo/ec1-SergioVenero/session13a/main.cpp">
 			<Option target="session13a"/>
 		</Unit>

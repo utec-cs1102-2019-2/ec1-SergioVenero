@@ -1,17 +1,16 @@
-//
-// Created by Sergio on 10/23/2019.
-//
 
 #ifndef SESSION10A_TECLADO_H
 #define SESSION10A_TECLADO_H
 
+#include <iostream>
+using namespace std;
 
-class teclado {
+class Teclado {
 private:
-    vector<int> color;
-    double precision;
-
+    string lang = "ES";
+    string marca = "LENOVO";
+public:
+    string getDescripcion();
 };
-
 
 #endif //SESSION10A_TECLADO_H

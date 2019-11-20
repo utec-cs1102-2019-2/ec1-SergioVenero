@@ -1,15 +1,17 @@
-
-
 #ifndef SESSION10A_COMPUTADORA_H
 #define SESSION10A_COMPUTADORA_H
-class computadora{
+
+#include "Teclado.h"
+#include "Mouse.h"
+
+
+class Computadora {
 private:
-    Teclado teclado;
-    Mouse mouse;
+    Teclado *teclado = new Teclado();
+    Mouse *mouse = new Mouse();
 public:
-    computadora(){
-        teclado = new Teclado();
-        mouse = new Mouse();
-    }
+    void mostrar();
 };
+
+
 #endif

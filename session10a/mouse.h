@@ -1,16 +1,16 @@
-//
-// Created by Sergio on 10/23/2019.
-//
 
 #ifndef SESSION10A_MOUSE_H
 #define SESSION10A_MOUSE_H
 
-
-class mouse {
+#include <vector>
+using namespace std;
+class Mouse {
 private:
-    vector<int> color;
-    double precision;
-};
+    vector<int> color{ 10, 20, 30 };
+    double precision = 0.54;
 
+public:
+    void printDescripcion();
+};
 
 #endif //SESSION10A_MOUSE_H

@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake
 CMakeFiles/session13a.dir/all:
 	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/depend
 	$(MAKE) -f CMakeFiles\session13a.dir\build.make CMakeFiles/session13a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target session13a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target session13a"
 .PHONY : CMakeFiles/session13a.dir/all
 
 # Include target in all.
@@ -80,7 +80,7 @@ all: CMakeFiles/session13a.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/session13a.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles 8
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/session13a.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Sergio\Desktop\poo\ec1-SergioVenero\session13a\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/session13a.dir/rule
